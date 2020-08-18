@@ -1,4 +1,9 @@
 # Comece no Flutter com este projeto!
+
+<p align="center">
+    <img src="https://lh6.googleusercontent.com/1DPBYvU2mtyx6e-30V5rE46U2Rnhp2ISmBVL4BP6a6t604W2oA0ofJtjOZt07zBv3Ujjf8JdLYsnhnZpFDrJ=w1366-h657-rw" weight="800"/>
+</p>
+
 Boas práticas para desenvolvedores já utilizarem em seu primeiro contato com o Flutter, vamos criar um app usando Material, Cupertino e BLoC.
 
 Post com passo a passo para desenvolver o projeto:
