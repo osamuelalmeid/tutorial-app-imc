@@ -1,7 +1,7 @@
 # Comece no Flutter com este projeto!
 
 <p align="center">
-    <https://miro.medium.com/max/700/1*1w_9_ENMcExxhKwYl9H2gw.png" weight="800"/>
+   <img src="https://miro.medium.com/max/700/1*1w_9_ENMcExxhKwYl9H2gw.png" weight="200"/>
 </p>
 
 Boas práticas para desenvolvedores já utilizarem em seu primeiro contato com o Flutter, vamos criar um app usando Material, Cupertino e BLoC.
