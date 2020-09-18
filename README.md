@@ -9,6 +9,21 @@ Boas práticas para desenvolvedores já utilizarem em seu primeiro contato com o
 Post com passo a passo para desenvolver o projeto:
 https://medium.com/@osamuelalmeid/comece-no-flutter-com-este-projeto-d1298c915938
 
+## Como configurar o projeto
+-   Clonar o projeto utilizando o comando abaixo.
+ 
+```shell
+git clone https://github.com/osamuelalmeid/tutorial-app-imc.git
+```
+
+-   Entrar na pasta do projeto e baixar os pacotes, rodando o comando abaixo no terminal.
+
+```shell
+cd tutorial-app-imc
+flutter packages get
+```
+
+
 # Principais pontos abordados
 -   Estrutura básica de arquitetura, organização do projeto.
 -   Desenvolvimento de interfaces utilizando Material e Cupertino, sendo possível executar o projeto no Android, quanto IOS.
